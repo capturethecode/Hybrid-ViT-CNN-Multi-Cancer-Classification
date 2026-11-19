@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hybrid Vision Transformer-CNN Architecture for Multi-Cancer Classification
 
@@ -50,3 +51,21 @@ Add your accuracy graph, confusion matrix, and sample predictions here.
 ## Author
 Abhishek Kumar
 
+=======
+# Multi Cancer diagnosis using Histopathological images
+This project presents a hybrid CNN + Vision Transformer model for multi-cancer histopathological image classification.
+
+## Features
+- CNN + Vision Transformer
+- Histopathological Image Analysis
+- Multi-class Cancer Diagnosis
+- Streamlit Web Application
+
+## Accuracy
+- CNN Accuracy: 90.56%
+- CNN + Vision Transformer Accuracy: 96.21%
+
+## Run Application
+
+streamlit run app/app.py
+>>>>>>> 0e6eb16 (Initial commit: Hybrid ViT-CNN Multi-Cancer Classification)
